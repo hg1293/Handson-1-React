@@ -1,7 +1,6 @@
 // import App from './App';
 import React from 'react';
-import './App.css';
-
+import './function.css';
 function FunComp(){
     return(
         <div className="hello">
